@@ -82,10 +82,10 @@ npm install
 
 ### Running the Application
 
--If it’s a frontend-only project:
+- If it’s a frontend-only project:
  1. Open client/index.html in your browser.
 
--If it includes a backend:
+- If it includes a backend:
  1.In server/, run:
     npm start
 
@@ -93,10 +93,10 @@ npm install
 
 ### Usage
 
--Add a new task using the input form
--View tasks displayed in a list or card view
--Edit or delete tasks using action buttons
--Customize and extend functionalities (e.g., search, filter, due dates) as desired
+- Add a new task using the input form
+- View tasks displayed in a list or card view
+- Edit or delete tasks using action buttons
+- Customize and extend functionalities (e.g., search, filter, due dates) as desired
 
 ## Contributing
 
@@ -121,3 +121,4 @@ Email: sujal.pokale@gmail.com
 1.Update this README with actual names, paths, and instructions based on your repo’s real structure and components.
 2.Add a project description at the top (a sentence or two summarizing what it does).
 3.Optionally, include a screenshot or preview under the description to make the README more visually appealing.
+
